@@ -21,6 +21,7 @@ Estou aprendendo:
 Data science/ Machine Learning/ Deep Learning
 
 📈 Objetivos
+
 Contribuir para projetos open-source relacionados a educação e sustentabilidade.
 Expandir meu conhecimento em tecnologias modernas.
 Desenvolver sistemas inteligentes para resolução de problemas reais.
