@@ -1,38 +1,25 @@
 ﻿# RaulOliveiraG
 👋 Olá, meu nome é Raul!
 
-E eu gosto muito de tecnologia, desenvolvimento web e projetos criativos principalmente com machine learning. Atualmente, estou focado em aprender e implementar soluções que combinem eficiência e simplicidade com bastante logica de programação.
+Eu aprecio muito à tecnologia, o desenvolvimento web e projetos criativos principalmente com machine learning. Atualmente, estou focado em aprender e implementar soluções, que combinem eficiência e simplicidade com uma gama de lógica de programação.
 
 🌟 Interesses:
 
-Machine learning
-Projetos voltados ao ensino e tecnologias educacionais
-Soluções tecnológicas para questões sociais e ambientais
+Machine learning. Projetos voltados ao ensino e tecnologias educacionais. Soluções tecnológicas para questões sociais e ambientais.
 
-🛠️ Habilidades Técnicas
+🛠 Habilidades Técnicas
 
-Linguagens e Ferramentas:
-Frontend: HTML5, CSS3, JavaScript
-Backend: Node.js
-Banco de Dados: ----
-Versionamento: Git e GitHub
-Outros: VS Code
-Estou aprendendo:
-Data science/ Machine Learning/ Deep Learning
+Linguagens e Ferramentas: Frontend: HTML5, CSS3, JavaScript Backend: Node.js Banco de Dados: ---- Versionamento: Git e GitHub Outros: VS Code Estou aprendendo: Data science/ Machine Learning/ Deep Learning
 
 📈 Objetivos
 
-Contribuir para projetos open-source relacionados a educação e sustentabilidade.
-Expandir meu conhecimento em tecnologias modernas.
-Desenvolver sistemas inteligentes para resolução de problemas reais.
-
+Contribuir para projetos open-source, relacionados a educação e sustentabilidade. Expandir meu conhecimento em tecnologias modernas. Desenvolver sistemas inteligentes, para resolução de problemas reais.
 
 🚀 Projetos em Destaque
 
-1-Arvore de decisões:(acesso no git hub)
+1-Árvore de decisões:(acesso no git hub)
 
-2-Sistema Imobiliário "Risco Zero"
-Uma plataforma que oferece informações sobre o histórico de enchentes em determinadas áreas, ajudando investidores e imobiliárias.(Em desenvolvimento)
+2-Sistema Imobiliário "Risco Zero" Uma plataforma, que oferece informações sobre o histórico de enchentes em determinadas áreas, ajudando investidores e imobiliárias.(Em desenvolvimento)
 
 3-TCC - Gerência e Fornecimento de Créditos de Carbono:
 Resumo:
