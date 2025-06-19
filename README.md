@@ -89,7 +89,7 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
 
 ---
 
-###
+### Contatos:
 
 - **Email:** rauloliveiragarcia08@gmail.com
 - **LinkedIn:** [Raul Garcia](https://www.linkedin.com/in/raul-garcia/) <!-- Atualize o link se precisar -->
