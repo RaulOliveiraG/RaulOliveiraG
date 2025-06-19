@@ -1,34 +1,96 @@
-﻿# RaulOliveiraG
-👋 Olá, meu nome é Raul!
+# Raul Oliveira Garcia
 
-Eu aprecio muito à tecnologia, o desenvolvimento web e projetos criativos principalmente com machine learning. Atualmente, estou focado em aprender e implementar soluções, que combinem eficiência e simplicidade com uma gama de lógica de programação.
+**Desenvolvedor Web & Entusiasta em Machine Learning**
 
-🌟 Interesses:
+Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transformar ideias em soluções inovadoras, especialmente na área de *machine learning*, educação e sustentabilidade. Atualmente, foco em aprender novas tecnologias e criar projetos que aliem eficiência, criatividade e impacto social.
 
-Machine learning. Projetos voltados ao ensino e tecnologias educacionais. Soluções tecnológicas para questões sociais e ambientais.
+<p align="left">
+    <a href="https://github.com/RaulOliveiraG?tab=followers">
+        <img 
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/RaulOliveiraG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/RaulOliveiraG?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/RaulOliveiraG?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+</p>
 
-🛠 Habilidades Técnicas
+---
 
-Linguagens e Ferramentas: Frontend: React/React Native, JavaScript Backend: Node.js Banco de Dados: ---- Versionamento: Git e GitHub Outros: VS Code Estou melhorando em consumo de API, automação entre outros.
+### 🌱 **Sobre Mim**
 
-📈 Objetivos
+- **Áreas de interesse:** Machine Learning, Projetos Educacionais, Sustentabilidade e Soluções para Impacto Social.
+- **Busco sempre:** Aprender novas tecnologias, contribuir para projetos open-source e desenvolver sistemas inteligentes para desafios reais.
 
-Contribuir para projetos open-source, relacionados a educação e sustentabilidade. Expandir meu conhecimento em tecnologias modernas. Desenvolver sistemas inteligentes, para resolução de problemas reais.
+---
 
-🚀 Projetos em Destaque
+### ⚙️ **Tecnologias e Ferramentas**
 
-1-Árvore de decisões:(acesso no git hub)
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React Native" title="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-2-Sistema Imobiliário "Risco Zero" Uma plataforma, que oferece informações sobre o histórico de enchentes em determinadas áreas, ajudando investidores e imobiliárias.(Em desenvolvimento)
+<br/>
+<br/>
+<br/>
 
-3-TCC - Gerência e Fornecimento de Créditos de Carbono:
-Resumo:
-    Seguindo a linha da sustentabilidade e sua importância nos dias atuais para o futuro de nosso planeta, este projeto irá contribuir para um mundo sustentável usando de os créditos de carbono, mais especificamente gerenciamento e a fornecimento de créditos de carbono ajudando assim empresas poluentes a compensarem o que poluem ou até ́pessoas com interesse em compensar a sua pegada de carbono, que é o total de emissões de gases de efeito estufa causadas por um indivíduo, organização ou produto, expresso em dióxido de carbono equivalente. Créditos de carbono são certificados que podem ser emitidos por empresas ou pessoas físicas provando que contribuíram para a redução dos gases do efeito estufa podendo ser gerado por meio do plantio de árvores por exemplo, além de estarmos compensando nossa poluição os créditos de carbono podem ser vendidos para se obter lucro ou em caso de empresas que podem receber incentivos fiscais. Para gerarmos créditos de carbono a nossa empresa usaria o Kiri japonês, sendo o mais custo benefício no quesito compensar carbono, tendo um custo baixo de plantio e manutenção, deixando nosso serviço ainda mais acessível para empresas, investidores ou pessoas físicas. Empresas que desejem contratar os nossos serviços, tem a opção de nos fornecer o terreno para que os nossos serviços serem realizados, cuidaremos de todos os processos como a administração do terreno, assim facilitando e tornando muito mais acessível investir em créditos de carbono, Para pessoas que forem investir em nossos terrenos, planejamos um sistema no qual você pode comprar partes dos nossos terrenos, o que for gerado nesse terreno serão deles, claro com uma porcentagem de royalties sendo cobrados para o desenvolvimento da empresa, também cuidaremos dos terrenos, se caso o cliente desejar ele pode investir mais dinheiro para plantio de árvores e aumentando assim seus ganhos e do valor do terreno. além disso para ser ainda mais fácil e acessível, será executado uma integração com um suposto aplicativo atribuindo um fator físico a elas, facilitando ainda mais o investimento nos terrenos. Assim tornando o investimento em créditos de carbono algo de grande vantagem para empresas, pessoas físicas ou investidores, sendo muito fácil de se investir e ter um lucro. Para comprovarmos as nossas hipóteses, utilizamos de pesquisas quantitativas entrando em contato com empresas e pessoas físicas, cujo comprovam que nossa ideia de fato é viável e da parte qualitativa foi enviado um formulário para coleta de informações a empresas poluentes, tornando o projeto quali-quant. Logo a aplicativo se enquadra em alguns objetivos de desenvolvimento sustentável como a ODS 3(saúde e qualidade) sendo a diminuição na taxa de emissão de carbono um contribuinte a saúde e qualidade dos seres, a ODS 8(empregos dignos e crescimento econômico) já que seria um novo método para os investidores, a ODS 11(cidades e comunidades sustentáveis) já que a aplicativo é inteiramente sustentável, a ODS 13(combate às mudanças climáticas) pois o aquecimento global acabaria por diminuir e a ODS 17(parceria pelas metas) sendo que a aplicativo precisa de auxílio em seu desenvolvimento para agregar aos seus clientes. 
+---
 
-(acesso completo no Linkedin)
+### 🚀 **Principais Projetos**
 
+- **[Árvore de Decisões](https://github.com/RaulOliveiraG/arvore-de-decisoes)**  
+  Projeto de machine learning para aprendizado de lógica de decisões.
 
-🌐 Contato
-Email: rauloliveiragarcia08@gmail.com / 
-LinkedIn: Raul Garcia / 
-Portfólio: (acesso no linkedin)
+- **Sistema Imobiliário "Risco Zero"**  
+  Plataforma para informações sobre histórico de enchentes, apoiando investidores e imobiliárias. *(Em desenvolvimento)*
+
+- **TCC – Gerência e Fornecimento de Créditos de Carbono**  
+  Sistema inovador de gestão de créditos de carbono, visando contribuir com empresas e pessoas físicas para redução e compensação de emissões. Integra plantio de árvores (Kiri japonês) com oportunidades de investimento, incentivo fiscal e impacto positivo em Objetivos de Desenvolvimento Sustentável (ODS).
+
+---
+
+### 🎯 **Objetivos**
+
+- Contribuir com projetos open-source em educação e sustentabilidade
+- Aprender mais sobre consumo de APIs, automação e IA
+- Criar sistemas que tragam benefícios reais para sociedade e meio ambiente
+
+---
+
+### 📈 **Estatísticas**
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=RaulOliveiraG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    align="left" 
+    alt="Top Langs"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOliveiraG&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+  />
+</p>
+
+<br/><br/><br/>
+
+---
+
+### 🌐 **Contato**
+
+- **Email:** rauloliveiragarcia08@gmail.com
+- **LinkedIn:** [Raul Garcia](https://www.linkedin.com/in/raul-garcia/) <!-- Atualize o link se precisar -->
+- **Portfólio:** (Acesse via LinkedIn)
