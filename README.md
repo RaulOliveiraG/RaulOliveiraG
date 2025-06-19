@@ -9,7 +9,7 @@ Machine learning. Projetos voltados ao ensino e tecnologias educacionais. Soluç
 
 🛠 Habilidades Técnicas
 
-Linguagens e Ferramentas: Frontend: HTML5, CSS3, JavaScript Backend: Node.js Banco de Dados: ---- Versionamento: Git e GitHub Outros: VS Code Estou aprendendo: Data science/ Machine Learning/ Deep Learning
+Linguagens e Ferramentas: Frontend: React/React Native, JavaScript Backend: Node.js Banco de Dados: ---- Versionamento: Git e GitHub Outros: VS Code Estou melhorando em consumo de API, automação entre outros.
 
 📈 Objetivos
 
