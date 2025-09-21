@@ -42,7 +42,6 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
 
 <br/>
 <br/>
-<br/>
 
 ---
 
@@ -74,19 +73,19 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
     align="left" 
     alt="GitHub Stats" 
     height="50%"
-    width="45%"
+    width="48.8%"
     src="https://github-readme-stats.vercel.app/api?username=RaulOliveiraG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img 
     align="left" 
     alt="Top Langs"
     height="33%"
-    width="34%"
+    width="37%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOliveiraG&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
@@ -95,6 +94,7 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
 - **Email:** rauloliveiragarcia08@gmail.com
 - **LinkedIn:** [Raul Garcia](https://www.linkedin.com/in/raul-garcia/) <!-- Atualize o link se precisar -->
 - **Portfólio:** (Acesse via LinkedIn)
+
 
 
 
