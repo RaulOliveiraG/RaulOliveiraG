@@ -33,7 +33,6 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
 ### ⚙️ **Tecnologias e Ferramentas**
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="React Native" title="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -96,4 +95,5 @@ Olá! Sou Raul Oliveira Garcia, apaixonado por tecnologia e pelo poder de transf
 - **Email:** rauloliveiragarcia08@gmail.com
 - **LinkedIn:** [Raul Garcia](https://www.linkedin.com/in/raul-garcia/) <!-- Atualize o link se precisar -->
 - **Portfólio:** (Acesse via LinkedIn)
+
 
