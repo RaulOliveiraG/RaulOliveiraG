@@ -1,6 +1,6 @@
 # Raul Oliveira Garcia
 
-**Desenvolvedor Full-Stack | Entusiasta em IA & Machine Learning**
+**Desenvolvedor Full-Stack | Entusiasta em IA**
 
 Olá! Sou Raul Oliveira Garcia, desenvolvedor **full-stack de 17 anos**, apaixonado por tecnologia e pelo poder de transformar ideias em soluções inovadoras. Tenho experiência com diversas linguagens, atuo tanto no front-end quanto no back-end, e me interesso por machine learning, educação e sustentabilidade.  
 Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
@@ -28,7 +28,7 @@ Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
 
 - **Idade:** 17 anos  
 - **Atuação:** Desenvolvedor Full-Stack  
-- **Diferenciais:** Prompt Engineering, automação, arquitetura de sistemas  
+- **Diferenciais:** Prompt Engineering, automação, arquitetura de sistemas 
 
 ---
 
@@ -62,7 +62,7 @@ Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
 ###  Objetivos & Foco
 
 - Evoluir continuamente como **desenvolvedor full-stack**  
-- Contribuir para projetos **open-sourc**
+- Contribuir para projetos **open-source**
 - Aprimorar conhecimentos em **IA, automação, APIs e integração de sistemas**  
 
 ---
@@ -97,5 +97,6 @@ Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
 - **Portfólio pessoal:** [rauloliveirag.github.io/Portifolio-Pessoal](https://rauloliveirag.github.io/Portifolio-Pessoal)  
 
 ---
+
 
 
