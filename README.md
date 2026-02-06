@@ -27,7 +27,7 @@ Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
 ###  Sobre Mim
 
 - **Idade:** 17 anos  
-- **Atuação:** Desenvolvedor Full-Stack  
+- **Atuação:** Desenvolvedor de Software e Analista de Sistemas 
 - **Diferenciais:** Prompt Engineering, automação, arquitetura de sistemas 
 
 ---
@@ -97,6 +97,7 @@ Busco sempre criar sistemas que unam eficiência, criatividade e impacto social.
 - **Portfólio pessoal:** [rauloliveirag.github.io/Portifolio-Pessoal](https://rauloliveirag.github.io/Portifolio-Pessoal)  
 
 ---
+
 
 
 
