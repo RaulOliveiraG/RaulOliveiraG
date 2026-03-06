@@ -99,29 +99,6 @@ Atualmente busco evoluir em áreas como:
 - **Cloud Computing**
 - **Sistemas Distribuídos**
 - **Escalabilidade de plataformas SaaS**
-
----
-
-## Estatísticas do GitHub
-
-<p>
-<img
-align="left"
-height="50%"
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=RaulOliveiraG&show_icons=true&theme=tokyonight&include_all_commits=true"
-/>
-
-<img
-align="left"
-height="33%"
-width="38%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOliveiraG&layout=compact&theme=tokyonight"
-/>
-</p>
-
-<br/><br/><br/><br/><br/><br/>
-
 ---
 
 ## Contato
@@ -129,4 +106,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOliveira
 - **Email:** rauloliveiragarcia08@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/raul-garcia-900180333  
 - **Portfólio:** https://rauloliveirag.github.io/Portifolio-Pessoal
+
 
