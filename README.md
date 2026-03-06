@@ -12,7 +12,7 @@ Sou apaixonado por **engenharia de software, arquitetura de sistemas, cloud comp
 
 ## Sobre Mim
 
-- **Idade:** 17 anos  
+- **Idade:** 18 anos  
 - **Atuação:** Desenvolvedor de Software  
 - **Experiência:** Desenvolvimento de plataformas SaaS, aplicativos mobile e integrações de sistemas  
 - **Interesses técnicos:** Arquitetura de Software, Cloud Computing, Sistemas Distribuídos e APIs
@@ -129,3 +129,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOliveira
 - **Email:** rauloliveiragarcia08@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/raul-garcia-900180333  
 - **Portfólio:** https://rauloliveirag.github.io/Portifolio-Pessoal
+
